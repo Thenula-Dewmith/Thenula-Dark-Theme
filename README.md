@@ -1,13 +1,25 @@
-# README
-## This is the README for your extension "Thenula-Dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Thenula Dark
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![version number](https://vsmarketplacebadge.apphb.com/version/codercoder.codercoder-dark-theme.svg)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+I took inspiration from the [Community Material](pythone) and the [Dark+ Material](https://marketplace.visualstudio.com/items?itemName=vangware.dark-plus-material) themes.
+
+
+Will be maintaining this as I have time, thanks for your understanding! 🙏🏽
+
+## Screenshots
+### Pyhton
+
+![Python screenshot](https://raw.githubusercontent.com/Thenula-Dewmith/Thenula-Dark-Theme/main/Thenula-Dewmith-Dark-Theme-python.png)
+
+### HTML
+
+![Html screenshot](https://raw.githubusercontent.com/Thenula-Dewmith/Thenula-Dark-Theme/main/Thenula-Dewmith-Dark-Theme-HTML.png)
+
+### CSS
+
+![css screenshot](https://raw.githubusercontent.com/Thenula-Dewmith/Thenula-Dark-Theme/main/Thenula-Dewmith-Dark-Theme-CSS.png)
+
 
 **Enjoy!**

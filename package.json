@@ -1,8 +1,14 @@
 {
-    "name": "Thenula-Dark",
+    "name": "Thenula-Dark-Theme",
     "displayName": "Thenula Dark",
-    "description": "Thenula Dewmth",
-    "version": "0.0.1",
+    "description": "this is VS Code theme design by me ",
+    "version": "1.0.0",
+    "publisher": "ThenulaDewmith",
+    "keywords": ["theme", "color-theme", "dark theme", "Thenula Dark", "Thenula", "Thenula Dewmith", "thenula", "thenula dark theme", "thenula dewmith", "python", "python themes"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Thenula-Dewmith/Thenula-Dark-Theme"
+    },
     "engines": {
         "vscode": "^1.64.0"
     },
@@ -10,12 +16,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Thenula Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Thenula Dark-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Thenula Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Thenula Dark-color-theme.json"
+        }]
     }
 }
